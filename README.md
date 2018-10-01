@@ -1,7 +1,7 @@
 # Vagrant box for front-end development
 This is a simple vagrant box I use for front-end development. It come with:
 
-  * Ubuntu 14.04 x64.
+  * Ubuntu 16.04 x64.
   * The latest version of Git.
   * Node.js 4.x LTS version.
   * The latest version of npm.
