@@ -3,7 +3,7 @@ This is a simple vagrant box I use for front-end development. It come with:
 
   * Ubuntu 14.04 x64.
   * The latest version of Git.
-  * Node.js 4.x LTS version.
+  * Node.js 6.x LTS version.
   * The latest version of npm.
   * The latest version of Gulp (gulp-cli) and Bower installed globally.
 
