@@ -75,7 +75,7 @@ Vagrant.configure("2") do |config|
     sudo apt-get update
     sudo apt-get upgrade
     sudo apt-get install git -y
-    curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
+    curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
     sudo apt-get install -y nodejs
     sudo npm install npm -g
     sudo npm install gulp-cli -g
